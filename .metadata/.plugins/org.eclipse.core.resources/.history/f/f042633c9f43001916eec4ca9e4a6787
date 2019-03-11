@@ -1,6 +1,5 @@
 
-
-module Project_2 {public class sample {
+public class Java {
 	public static void main(String[] args) {
 		char a = 'A';
 		char b = 'B';
@@ -9,5 +8,4 @@ module Project_2 {public class sample {
 		System.out.print('\"');
 		System.out.print(b);
 	}
-}
 }
